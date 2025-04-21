@@ -1,4 +1,4 @@
-RSA implementation
+Learning purpose RSA implementation
 
 Notes
 - Simplified approach of encryption char per char basis
