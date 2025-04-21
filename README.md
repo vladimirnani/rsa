@@ -5,16 +5,16 @@ Learning purpose RSA implementation
 
 **Fermatt Little theorem**
 
-$`a^p-1 \equiv 1 \mod p`$
+$`a^{(p-1)} \equiv 1 \mod p`$
 
 
 **Euler Totient function**
 
-$`\phi (n) = \phi(p_1-1) * \phi(p_2-2)`$ 
+$`\varphi (n) = \varphi(p_1-1) * \varphi(p_2-2)`$ 
 
 **Euler theorem**
 
-$`a^n \equiv 1\mod \phi (n)`$
+$`a^n \equiv 1\mod \varphi (n)`$
 
 
 
