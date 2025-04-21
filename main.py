@@ -7,6 +7,8 @@ def generate_keys():
     # n is the modulus
     n = p1 * p2
     # phi totient function of a number such as x pow phi(n) mod n is 1
+    # NOTE: phi is the secret because only by knowing p1 and p2 you can get it.
+    # while modulus is public and its a hard problem to find a factorization of a large number.
     phi = (p1 - 1) * (p2 - 1)
 
     # pick e such that e and phi are coprime
