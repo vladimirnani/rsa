@@ -14,7 +14,7 @@ $`\varphi (n) = \varphi(p_1-1) * \varphi(p_2-2)`$
 
 **Proof**
 
-$`m^ed \equiv m \mod(n)`$
+$`m^{ed} \equiv m \mod(n)`$
 
 $`ed \equiv 1 mod (\varphi (n))`$ or $`ed = 1 + k(\varphi (n))`$
 
